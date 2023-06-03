@@ -3,17 +3,17 @@
 function devolverPrimerElemento(array) {
    // Retornar el primer elemento del arreglo recibido por parámetro.
    // Tu código:
+   return array [0];
 }
-
+devolverElPrimerElemento['hola','precurs', 2, true];
 function devolverUltimoElemento(array) {
    // Retornar el último elemento del arreglo recibido por parámetro.
    // Tu código:
+   return array [array.length-1];
 }
+devolverElUltimoElemento['hola','precurs', 2, true];
 
-function obtenerLargoDelArray(array) {
-   // Retornar la longitud del arreglo recibido por parámetro.
-   // Tu código:
-}
+
 
 function incrementarPorUno(array) {
    // El arreglo recibido por parámetro contiene números.
